@@ -1,0 +1,24 @@
+.content{
+	background-color: yellow;
+	height: 50px;
+}
+
+footer{
+	height: 100px;
+	background: orange;
+}
+header{
+	height: 100px;
+	background: red;
+}
+
+.menu{
+	background-color: blue;
+	height: 50px;
+}
+
+.slider{
+	background-color: green;
+	height: 50px;
+}
+
